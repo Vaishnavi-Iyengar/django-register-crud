@@ -10,13 +10,11 @@ This project is a Django-based web application that implements **CRUD operations
 - Update user details
 - Delete user entries
 - Simple and clean UI with styling
----
 
 # Tech Stack
 - **Backend**: Python, Django
 - **Frontend**: HTML, CSS
 - **Database**: SQLite (default with Django)
----
 
 # Setup Instructions
 Follow these steps to run this project on your local machine:
@@ -24,5 +22,8 @@ Follow these steps to run this project on your local machine:
 # 1.Clone the Repository
 ```bash
 git clone https://github.com/Vaishnavi-Iyengar/django-register-crud.git
-cd register-crud-app
+cd django-register-crud
+
+# django-register-crud
+A Django project to manage user registration with full CRUD functionality.
 
