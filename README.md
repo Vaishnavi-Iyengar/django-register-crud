@@ -2,7 +2,7 @@
 This project is a Django-based web application that implements **CRUD operations (Create, Read, Update, Delete)** on a Register table. It allows users to input their **Full Name, Email, and Phone Number**, and manage the data on a single page.
 
 # Preview
-![App Screenshot](static/images/register_table_output.png)
+![Register Table Output](crudapp/static/images/output.png)
 
 # Features
 - Create new registrations (name, email, phone)
